@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saurav Chaurasia
 - 👀 I’m interested in field of Quantitative Research, Quantitative Development, Quantitative Portfolio Management and High Frequency Trading
 - 🌱 I’m currently pursuing, learning and developing my passion in the field of Quantitative Finance and Financial Engineering  
-- 💞️ I’m looking to collaborate on Quantitative Finance and Research on HFT strategies
+- 💞️ I’m looking to collaborate on topics related to Quantitative Finance and research on HFT strategies
 - 📫 Reach out to me on saurav.chaurasia92@gmail.com
 
 <!---
